@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  group: one
+  student: one
+  invoice: one
+  state: false
+  final_qualification: 1.5
+
+two:
+  group: two
+  student: two
+  invoice: two
+  state: false
+  final_qualification: 1.5
